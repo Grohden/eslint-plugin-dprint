@@ -106,7 +106,7 @@ function createMessage(d: Diff): Message {
 }
 
 export const dprint = rule({
-    name: "dprint",
+    name: "@grohden/dprint",
     meta: {
         docs: {
             category: "Stylistic Issues",

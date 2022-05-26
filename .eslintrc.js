@@ -9,7 +9,7 @@ module.exports = {
         "@mysticatea/ts/restrict-plus-operands": "off",
 
         // Use self.
-        dprint: ["error", {
+        "@grohden/dprint": ["error", {
             config: {
                 lineWidth: 80,
                 semiColons: "asi",

@@ -92,7 +92,7 @@ function createMessage(d) {
     };
 }
 exports.dprint = rule_1.rule({
-    name: "dprint",
+    name: "@grohden/dprint",
     meta: {
         docs: {
             category: "Stylistic Issues",

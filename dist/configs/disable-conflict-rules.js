@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.disableConflictRules = void 0;
 exports.disableConflictRules = {
-    plugins: ["dprint"],
+    plugins: ["@grohden/dprint"],
     rules: {
         "array-bracket-newline": "off",
         "array-bracket-spacing": "off",

@@ -3,7 +3,7 @@ import path from "path"
 import { dprint } from "../../lib/rules/dprint"
 
 const tester = new TSESLint.RuleTester()
-tester.run("dprint", dprint, {
+tester.run("@grohden/dprint", dprint, {
     valid: [
         {
             filename: path.join(__dirname, "test.ts"),

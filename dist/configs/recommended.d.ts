@@ -1,7 +1,7 @@
 export declare const recommended: {
     plugins: string[];
     rules: {
-        "dprint/dprint": string;
+        "@grohden/dprint/dprint": string;
         "array-bracket-newline": string;
         "array-bracket-spacing": string;
         "array-element-newline": string;
