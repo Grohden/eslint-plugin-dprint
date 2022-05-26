@@ -1,6 +1,7 @@
 /.dprint-plugins
 /.nyc_output
 /coverage
-/dist
+#/dist
 /node_modules
 /test.*
+.idea
